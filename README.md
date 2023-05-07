@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-musicbox-solution-labels
+<br>
+Unzip and open the MusicBox Solution-LabelsMusicBox Solution.sln file. Connect the application to the MusicBox database. The database, MusicBox.accdb, which is also attached, contains a table named tblBox. Bind the appropriate objects to the existing label controls. Code the nextButton_Click and previousButton_Click procedures. Save the solution and then start the application. Click the Exit button and then close the solution.
